@@ -4,7 +4,7 @@ using namespace std;
  
 const int P = 5; 
 
-const int R = 4; 
+const int R = 4
 
 
 
