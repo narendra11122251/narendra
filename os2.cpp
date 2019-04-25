@@ -1,15 +1,15 @@
 // C++ program to illustrate Banker's Algorithm ...
 #include<iostream> 
-using namespace std
+using namespace std;
  
-const int P = 5
+const int P = 5;
 
-const int R = 4
+const int R = 4;
 
 
 
-void calculateNeed int need[P][R], int maxm[P][R], 
-				int allot[P][R] 
+void calculateNeed( int need[P][R], int maxm[P][R], 
+				int allot[P][R])
 { 
 	
 	for (int i = 0 ; i < P ; i++) 
