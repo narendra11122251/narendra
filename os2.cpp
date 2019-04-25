@@ -9,7 +9,7 @@ const int R = 4
 
 
 void calculateNeed int need[P][R], int maxm[P][R], 
-				int allot[P][R]) 
+				int allot[P][R] 
 { 
 	
 	for (int i = 0 ; i < P ; i++) 
