@@ -1,8 +1,8 @@
 // C++ program to illustrate Banker's Algorithm ...
 #include<iostream> 
-using namespace std; 
+using namespace std
  
-const int P = 5; 
+const int P = 5
 
 const int R = 4
 
