@@ -8,7 +8,7 @@ const int R = 4
 
 
 
-void calculateNeed(int need[P][R], int maxm[P][R], 
+void calculateNeed int need[P][R], int maxm[P][R], 
 				int allot[P][R]) 
 { 
 	
